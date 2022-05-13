@@ -43,7 +43,7 @@
         "tslint": "6.0.0",
         "typechain": "1.0.4",
         "typechain-target-truffle": "git+https://github.com/pash7ka/TypeChain/#dist-typechain-target-truffle",
-        "typescript": "3.7.5",
+        "typescript": "3.9.10",
         "web3-provider-engine": "^15.0.4",
         "web3-utils": "^1.2.5"
     },
